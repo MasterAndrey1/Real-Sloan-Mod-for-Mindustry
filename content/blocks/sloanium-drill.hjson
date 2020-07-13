@@ -15,7 +15,7 @@ consumes: {
 requirements: [
   sloanium/80
   silicon/40
-  graphite/230
+  graphite/30
 ]
 category: production
 research: laser-drill
