@@ -1,0 +1,10 @@
+name: Sloanium Wall
+description: A wall made of sloanium. Not the strongest wall but it is good.
+type: Wall
+health: 1300
+size: 2
+requirements: [
+  sloanium/70
+]
+category: defense
+research: thorium-wall
